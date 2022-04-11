@@ -1,10 +1,10 @@
 # EMGS
 1.GSE146026_10x_epi.rds
-#The single-cell RNA sequencing dataset for identifying recurrence related genes
-2.TCGA_training_clin.txt
-#The clinical data for TCGA training set
-2.TCGA_training_exp.txt
-#The expression profile for TCGA training set
+#The single-cell RNA sequencing dataset for identifying recurrence related genes 
+2.TCGA_training_clin.txt 
+#The clinical data for TCGA training set 
+2.TCGA_training_exp.txt 
+#The expression profile for TCGA training set 
 3.TCGA_testing_clin.txt
 #The clinical data for TCGA testing set
 3.TCGA_testing_exp.txt
